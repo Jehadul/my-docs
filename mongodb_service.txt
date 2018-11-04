@@ -1,0 +1,4 @@
+1. sudo systemctl status mongod.service    // To show status of the service <mongod.service> 
+2. sudo systemctl start mongod.service     // To start the service <mongod.service>
+3. sudo systemctl stop mongod.service      // To stop the service <mongod.service>
+4. sudo systemctl enable mongod.service    // To enable the service <mongod.service>
